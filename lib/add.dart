@@ -6,5 +6,5 @@ T add<T extends num>(T a, T b) {
 
 void main() {
   final addResult = add(0.1, 2);
-  print('Add Result: $addResult'); // Output: Add Result: 3
+  print('Add Result: $addResult'); // Output: Add Result: 2.1
 }
