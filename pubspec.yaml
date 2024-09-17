@@ -1,0 +1,7 @@
+name: darttest
+
+environment:
+  sdk: '^3.5.0'
+dependencies:
+  expressions: ^0.2.5+2
+  http: ^1.2.2
